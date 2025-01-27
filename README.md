@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arvindjuneja
-- 👀 I’m interested in ... finding people :)
-- 🌱 I’m currently learning ... AEM Architecture
-- 💞️ I’m looking to collaborate on ... finidng right people to work
+- 👀 i build apps using ai, i cant write code, but apparently it doesn't matter anymore
 - 📫 How to reach me ... @ajuneja on instagram
 
 <!---
